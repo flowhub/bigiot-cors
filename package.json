@@ -1,0 +1,22 @@
+{
+  "name": "bigiot-cors",
+  "version": "1.0.0",
+  "description": "CORS proxy for BIG IoT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flowhub/bigiot-cors.git"
+  },
+  "author": "Jon Nordby <jon@flowhub.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flowhub/bigiot-cors/issues"
+  },
+  "homepage": "https://github.com/flowhub/bigiot-cors#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.4.1"
+  }
+}
